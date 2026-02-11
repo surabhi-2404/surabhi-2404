@@ -79,6 +79,6 @@ Secure data embedding inside audio signals using signal processing + ML concepts
 ---
 
 ⭐ **Recruiter Note:**  
-Open to internships, data analyst roles, and AI/ML opportunities where I can apply analytical thinking, modeling skills, and real-world problem solving.
+Open to jobs, data analyst roles, and AI/ML opportunities where I can apply analytical thinking, modeling skills, and real-world problem solving.
 
 ---
